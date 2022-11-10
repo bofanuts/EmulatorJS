@@ -1,3 +1,4 @@
+[Super Mario 64 (USA).zip](https://github.com/EmulatorJS/EmulatorJS/files/9976191/Super.Mario.64.USA.zip)
 # Nintendo 64
 
 ## Code Example
